@@ -4,7 +4,7 @@ Block Postion
 WordPress plugin - Block Position
 
 ## Description
-The Excerpt Extension adds more options for the excerpt output.
+This plugin allows you to combine multiple `wp_queries` into to one loop
 
 ### Features
 * Add Gutenberg Blocks to the WordPress loop
