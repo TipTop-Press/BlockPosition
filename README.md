@@ -6,6 +6,8 @@ WordPress plugin - Block Position
 ## Description
 This plugin allows you to combine multiple `wp_queries` into to one loop
 
+The idea behind this plugin is to use WordPress a bit more single page style.
+
 ### Features
 * Add Gutenberg Blocks to the WordPress loop
 
